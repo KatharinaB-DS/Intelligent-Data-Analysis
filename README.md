@@ -16,6 +16,7 @@
 
 ![Clustering Result 5](segmentation_5.png)
 
+*(Hinweis: Da die Original-.pbix-Datei archiviert wurde, dienen diese Screenshots und die beigefügte PDF-Dokumentation als Referenz für die visuelle Umsetzung.)*
 ---
 
 ## 📌 Projektübersicht
