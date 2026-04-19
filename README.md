@@ -6,16 +6,17 @@
 
 ## 🖼️ Analyse-Visualisierung
 
-![Clustering Result 1](segmentation_1.png)
+![Clustering Result 1](segmentation_1.png.png)
 
-![Clustering Result 2](segmentation_2.png)
+![Clustering Result 2](segmentation_2.png.png)
 
-![Clustering Result 3](segmentation_3.png)
+![Clustering Result 3](segmentation_3.png.png)
 
-![Clustering Result 4](segmentation_4.png)
+![Clustering Result 4](segmentation_4.png.png)
 
-![Clustering Result 5](segmentation_5.png)
+![Clustering Result 5](segmentation_5.png.png)
 
+*(Hinweis: Da die Original-Quelldateien archiviert wurden, dienen diese Screenshots und die beigefügte PDF-Dokumentation als Referenz für die Analyse.)*
 *(Hinweis: Da die Original-.pbix-Datei archiviert wurde, dienen diese Screenshots und die beigefügte PDF-Dokumentation als Referenz für die visuelle Umsetzung.)*
 ---
 
