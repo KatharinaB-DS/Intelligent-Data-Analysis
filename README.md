@@ -1,4 +1,4 @@
-# 🤖 Intelligent Customer Segmentation
+# Intelligent Customer Segmentation
 
 > Ein Data-Science-Projekt zur automatisierten Kundensegmentierung mittels Clustering-Algorithmen (K-Means & K-Medoids). Analyse von über 540.000 Datensätzen zur Optimierung von Marketingstrategien.
 
